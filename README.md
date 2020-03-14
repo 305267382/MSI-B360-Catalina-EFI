@@ -34,6 +34,8 @@ https://github.com/SuperNG6/MSI-B360-Catalina-EFI/releases
     WhateverGreen 1.3.7
     
 
+## Please turn on intel graphics card in the BIOS
+
 ## Changelog
 
 ### 2020/03/14
