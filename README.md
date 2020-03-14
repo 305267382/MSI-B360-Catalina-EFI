@@ -16,6 +16,7 @@ https://github.com/SuperNG6/MSI-B360-Catalina-EFI/releases
 
 
 # Info
+## Please turn on intel graphics card in the BIOS
 
     CPU:i5 8400 GPU:AMD5500xt UHD630 SSD:SAM 960PRO SMBIOS:2018 Mac mini
     
@@ -33,8 +34,6 @@ https://github.com/SuperNG6/MSI-B360-Catalina-EFI/releases
     
     WhateverGreen 1.3.7
     
-
-## Please turn on intel graphics card in the BIOS
 
 ## Changelog
 
