@@ -41,9 +41,10 @@ https://github.com/SuperNG6/MSI-B360-Catalina-EFI/releases
 
     1、Only support AMD 5500xt (UHD630+AMD5500xt)
     2、Highly customizable
+  
+  
 
 
-    
 ## If you used to apply simulation nvaram，please operate in the following way.  
 ### Clover  
 ````
