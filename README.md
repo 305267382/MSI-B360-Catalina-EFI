@@ -86,7 +86,7 @@ Link of tutorial：https://sleele.com/2019/05/05/hackintosh-pcidevices/
 
 ![2qtqFu](https://cdn.jsdelivr.net/gh/SuperNG6/pic@master/uPic/2qtqFu.png)
 ![cKp37i](https://cdn.jsdelivr.net/gh/SuperNG6/pic@master/uPic/cKp37i.png)
-![7o6k83](https://cdn.jsdelivr.net/gh/SuperNG6/pic@master/uPic/7o6k83.png)
+![6U2TQO](https://cdn.jsdelivr.net/gh/SuperNG6/pic@master/uPic/6U2TQO.png)
 ![qM1uoH](https://cdn.jsdelivr.net/gh/SuperNG6/pic@master/uPic/qM1uoH.png)
 ![Zq3EKh](https://cdn.jsdelivr.net/gh/SuperNG6/pic@master/uPic/hANtdH.png)
 ![9vtHF1](https://cdn.jsdelivr.net/gh/SuperNG6/pic@master/uPic/9vtHF1.png)
